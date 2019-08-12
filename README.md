@@ -6,6 +6,7 @@ The source code of the Android app is not out yet. It will be released in days, 
 The API Source Code and documentation can be found at [Here](http://github.com/giorgioshine/SpaghettiQueueAPI) 
 
 Make sure to join our discord server
+
 [![Join Discord Server](https://img.shields.io/badge/Join%20our-Discord-%237289da)](https://discord.gg/tAWtPUW) ![License](https://img.shields.io/github/license/giorgioshine/SpaghettiQueue) 
 ### Desktop app installation
 There is a pre-compiled all in one EXE or you can run the program directly from the source with python3.
