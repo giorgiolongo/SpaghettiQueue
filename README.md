@@ -1,10 +1,11 @@
 # SpaghettiQueue Destkop App
 Check your 2b2t position in queue via Android Phone/Webapp.
 
-The source code of the Android app is not out yet. It will be released in days, just to publish a refactored version of it. Meanwhile you can download the APK from [spaghettiqueue.app/download](https://spaghettiqueue.app/download?t=android) or from the release page.
+The source code of the Android app is not out yet. It will be released in days, just to publish a refactored version of it. Meanwhile you can download the APK as well as the Windows Client [from the Release page.](https://github.com/giorgioshine/SpaghettiQueue/releases/tag/alpha)
 
 The API Source Code and documentation can be found at [Here](http://github.com/giorgioshine/SpaghettiQueueAPI) 
 
+Make sure to join our discord server
 [![Join Discord Server](https://img.shields.io/badge/Join%20our-Discord-%237289da)](https://discord.gg/tAWtPUW) ![License](https://img.shields.io/github/license/giorgioshine/SpaghettiQueue) 
 ### Desktop app installation
 There is a pre-compiled all in one EXE or you can run the program directly from the source with python3.
