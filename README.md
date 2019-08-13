@@ -25,7 +25,7 @@ python3 setup.py install
 ```
 
 
-####Running
+#### Running
 ```
 python -m spaghettiqueue
 ```
@@ -44,6 +44,8 @@ Please feel free to contribute to the development of the project by improving th
 * [ ] SpaghettiQueue.app website
 * [X] Destkop Client
 * [ ] API docs
+* [ ] WebSocket-based client and server
+
 
 ### Donations
 If you found the project useful, you can give me a cup of coffee :) 
