@@ -1,3 +1,6 @@
+## Disclamer
+After some tests within the discord server I discovered that http polling on an app which updates that fast is the worst thing I could do. I was about to implement a socket system but without having any experience in socket design It's taking a lot of time which I dont have at the moment. I released the app with a poll rate of 30s so the app is not instat but it's the only way to make the system usable without flooding the server. I also had to upgrade the server and to maintain it alive I added a small adbar at the bottom of the android app, sorry about that but it's necessary. The socket system will be available later on as well as the webapp for iOS users. I raccomand to update when the update popup comes up.
+
 # SpaghettiQueue Destkop App
 Check your 2b2t position in queue via Android Phone/Webapp.
 
