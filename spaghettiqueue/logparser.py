@@ -81,4 +81,4 @@ class LogsParser(QThread):
                     self.error_sign.emit(format_exc())
                     sleep(5)
                     continue
-            sleep(1)
+            sleep(20)
