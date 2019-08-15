@@ -34,7 +34,7 @@ python -m spaghettiqueue
 ```
 
 ### Contributing
-Please feel free to contribute to the development of the project by improving the existing code or creating your own app based on the SpaghettiAPI. If you do I raccomand joining the discord server
+Please feel free to contribute to the development of the project by improving the existing code. The priority right now is to implement a socket system. If you wanna help I raccomand joining the discord server
 
 
 ### License
@@ -47,7 +47,7 @@ Please feel free to contribute to the development of the project by improving th
 * [ ] SpaghettiQueue.app website
 * [X] Destkop Client
 * [ ] API docs
-* [ ] WebSocket-based client and server
+* [ ] Socket-based client and server
 
 
 ### Donations
